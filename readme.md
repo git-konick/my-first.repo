@@ -1,30 +1,27 @@
- # This is a lage heading
+ # Konstantin Konick
 
- ## This is a smaller heading
+ ## Geography
+ 
+ Now i live and work in Moscow, Russia.
 
+ ### Reading
 
- And as **imagination** bodies forth,
- The forms of things *unkown*, the poet's pen,
- turns them to shapes and gives to airy nothing,
- A local *habitation* and a **name**.
+ Once upon a time, i read wonderful books... 
 
- - This is
- - an unordered
- - list
+ - *FreeBSD 6 unleashed* by Brian Tiemann
+ - *Practical Firewalls* by Terry William Ogletree
+ - *The Book of Pstfix* by Ralf Hildebrandt, Patrick Koetter
 
- 1. Thes is
- 2. an ordered
- 3. list
+ ### Food
 
- Here is 'some code' in the middle of a sentence.
+ I havt no particular preferences. I can eat any fast food:
+ 1. Sandwich
+ 2. hot dog
+ 3. burger
 
- '''
- This is
- a block
- of code
- '''
+ ### Contact
 
- Here is how you make [a link](https://www.wikipedia.org/).
+ The best way to get in touch with me is [on Twitter](https://www.twitter.org/konick_).
 
  ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
