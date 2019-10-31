@@ -23,6 +23,6 @@
 
  The best way to get in touch with me is [on Twitter](https://www.twitter.org/konick_).
 
- ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+ ![This is an image.](https://github.com/git-konicks/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
  nano README.md 
