@@ -1,9 +1,5 @@
  # Konstantin Konick
 
- ## Geography
- 
- Now i live and work in Moscow, Russia.
-
  ### Reading
 
  Once upon a time, i read wonderful books... 
